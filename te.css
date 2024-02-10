@@ -83,6 +83,7 @@ body {
   .gallery li {
     width: 50%;
   }
+}
 
 
 .quote {
@@ -97,7 +98,7 @@ font-size: small;
   font-size: small;
 }
 
-}
+
 
 @media (min-width: 992px) {
  
