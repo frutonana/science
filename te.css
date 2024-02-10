@@ -83,22 +83,7 @@ body {
   .gallery li {
     width: 50%;
   }
-
-
-
-.quote {
-font-size: small;
 }
-
-#text-overlay {
-  font-size: small;
-}
-
-#subtext {
-  font-size: small;
-}
-}
-
 
 
 @media (min-width: 992px) {
