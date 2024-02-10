@@ -85,16 +85,15 @@ body {
   }
 }
 
+.quote {
+font-size: small;
+}
+
 
 @media (min-width: 992px) {
  
   body {
     font-size: 18px;
-  }
-  
-  
-  .gallery li {
-    width: 33.33%;
   }
 }
 
