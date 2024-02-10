@@ -90,11 +90,11 @@ body {
 font-size: small;
 }
 
-.text-overlay {
+#text-overlay {
   font-size: small;
 }
 
-.subtext {
+#subtext {
   font-size: small;
 }
 
