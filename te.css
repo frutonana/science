@@ -83,7 +83,7 @@ body {
   .gallery li {
     width: 50%;
   }
-}
+
 
 
 .quote {
@@ -96,6 +96,7 @@ font-size: small;
 
 #subtext {
   font-size: small;
+}
 }
 
 
